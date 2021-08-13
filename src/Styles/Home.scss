@@ -1,0 +1,15 @@
+@import './custom';
+
+.qa {
+    font-weight: bold;
+    color:$primary;
+}
+
+div hr {
+    border:1px solid $primary;
+}
+
+.jumbotron {
+    background-color:rgb(255, 255, 255);
+    font-size:18px;
+}
